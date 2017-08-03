@@ -26,7 +26,7 @@ SECRET_KEY = '#86^$q)rfdq(z*r&nx^*e7g)8*h486*!meke^_oib-t2bo6h3!'
 DEBUG = True
 
 # <your_username> needs to be changed!!!
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'aarye.pythonanywhere.com']
 # When DEBUG is True and ALLOWED_HOSTS is empty, the host is validated against ['localhost', '127.0.0.1', '[::1]']. This won't match our hostname on PythonAnywhere once we deploy our application so we will change the following setting:
 
 # Application definition
